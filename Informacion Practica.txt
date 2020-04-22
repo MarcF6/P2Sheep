@@ -1,0 +1,12 @@
+En esta práctica se ha añadido lo siguiente:
+
+-Diferentes sonidos:
+    -"Disparar"
+    -"Cuando impacta contra la oveja"
+    - "Cuando la oveja cae al vacío"
+-Un nuevo elemento "corazón rojo" que sale cuando impactas el proyectil contra la oveja, sale hacia arriba y desaparece
+-Un contador de ovejas muertas, cuando caen al vacío un cierto número de ovejas el juego termina.
+
+Otras implementaciones que se podrían hacer:
+
+-Que spawnee otro modelo distinto, por lo que tengas que dejarlo pasar si o si, o por ejemplo tenga que recibir más de un impacto para "morir"
